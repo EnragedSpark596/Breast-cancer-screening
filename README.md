@@ -99,16 +99,12 @@ and open:
 BreastCancerMassImages_DataScienceFinalProject.ipynb
 ```
 
-## Data Requirements
+**Data Files**
 
-The notebook expects the UCI Mammographic Mass dataset files:
+The repository includes the original UCI Mammographic Mass dataset files used by the notebook:
 
-```text
-mammographic_masses.data.txt
-mammographic_masses.names.txt
-```
-
-These files are not currently included in this repository and must be obtained separately from the **UCI Machine Learning Repository Mammographic Mass dataset**.
+mammographic_masses.data.txt — the dataset containing the mammographic mass observations used in the analysis
+mammographic_masses.names.txt — the accompanying dataset documentation describing the attributes and source data
 
 ## Project Context
 
